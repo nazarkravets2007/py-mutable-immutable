@@ -31,3 +31,7 @@ sorted_variables = {
         profile_info
     ]
 }
+
+        profile_info
+    ]
+}
